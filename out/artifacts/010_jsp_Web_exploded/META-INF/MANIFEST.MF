@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: yqduan
+Build-Jdk: version 16.0.1
+Implementation-Title: 010-jsp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dyq.springboot
+Main-Class: ${start-class}
+
